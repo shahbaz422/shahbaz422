@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbaz422" alt="shahbaz422" /></a> </p>
 
-- 💬 Ask me about **android, kotlin**
+- 💬 Ask me about **Android, Kotlin, Ktor, JAVA, SQL, C Programming**
 
 - 📫 How to reach me **mohammedshahbaz422@gmail.com**
 

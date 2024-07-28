@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shahbaz</h1>
-<h3 align="center">I have nothing here on GitHub because I mostly write code that makes money.</h3>
+<h3 align="center">GitHub’s not where I flaunt my skills; my code’s out there earning me money.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaz422&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaz422" /> </p>
 
